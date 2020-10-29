@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.a688b7cb.chunk.css",
+    "main.js": "/todo-list/static/js/main.255c828f.chunk.js",
+    "main.js.map": "/todo-list/static/js/main.255c828f.chunk.js.map",
+    "runtime-main.js": "/todo-list/static/js/runtime-main.9c8ee466.js",
+    "runtime-main.js.map": "/todo-list/static/js/runtime-main.9c8ee466.js.map",
+    "static/js/2.5c13bd5a.chunk.js": "/todo-list/static/js/2.5c13bd5a.chunk.js",
+    "static/js/2.5c13bd5a.chunk.js.map": "/todo-list/static/js/2.5c13bd5a.chunk.js.map",
+    "index.html": "/todo-list/index.html",
+    "precache-manifest.ca7393b93211e3a62df61e2782bbb827.js": "/todo-list/precache-manifest.ca7393b93211e3a62df61e2782bbb827.js",
+    "service-worker.js": "/todo-list/service-worker.js",
+    "static/css/main.a688b7cb.chunk.css.map": "/todo-list/static/css/main.a688b7cb.chunk.css.map",
+    "static/js/2.5c13bd5a.chunk.js.LICENSE.txt": "/todo-list/static/js/2.5c13bd5a.chunk.js.LICENSE.txt",
+    "static/media/check-mark.svg": "/todo-list/static/media/check-mark.7cc3ec33.svg",
+    "static/media/dustbin.svg": "/todo-list/static/media/dustbin.0586c3c6.svg",
+    "static/media/plus.svg": "/todo-list/static/media/plus.4d8cd2e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c8ee466.js",
+    "static/js/2.5c13bd5a.chunk.js",
+    "static/css/main.a688b7cb.chunk.css",
+    "static/js/main.255c828f.chunk.js"
+  ]
+}
